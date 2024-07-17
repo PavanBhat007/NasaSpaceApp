@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NasaSpaceApp/static/css/main.9772fbce.chunk.css",
+    "main.js": "/NasaSpaceApp/static/js/main.5dda0f4b.chunk.js",
+    "main.js.map": "/NasaSpaceApp/static/js/main.5dda0f4b.chunk.js.map",
+    "runtime~main.js": "/NasaSpaceApp/static/js/runtime~main.5aeef95f.js",
+    "runtime~main.js.map": "/NasaSpaceApp/static/js/runtime~main.5aeef95f.js.map",
+    "static/js/2.ca150098.chunk.js": "/NasaSpaceApp/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/NasaSpaceApp/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/NasaSpaceApp/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/NasaSpaceApp/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/NasaSpaceApp/index.html",
+    "precache-manifest.a46fdbdd8ae8284570688ad48c875390.js": "/NasaSpaceApp/precache-manifest.a46fdbdd8ae8284570688ad48c875390.js",
+    "service-worker.js": "/NasaSpaceApp/service-worker.js",
+    "static/css/main.9772fbce.chunk.css.map": "/NasaSpaceApp/static/css/main.9772fbce.chunk.css.map",
+    "static/media/App.css": "/NasaSpaceApp/static/media/bg.1f7c43ba.jpg"
+  }
+}
